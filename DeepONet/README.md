@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ### 实验要求
 
 1. 阅读 `rdpde.ipynb` 文件，理解实验的整体流程。
-2. 在 `rdpde.ipynb` 文件中，完成标注为 `#TODO` 的部分，使用自定义的 DeepONet 类（`model.py` 中提供了参考实现），可在`model.py`中实现`MyDeepONet`类，并通过少`from model import MyDeepONet`导入。
+2. 在 `rdpde.ipynb` 文件中，完成标注为 `#TODO` 的部分，使用自定义的 DeepONet 类（`model.py` 中提供了参考实现），可在`model.py`中实现`MyDeepONet`类，并通过`from model import MyDeepONet`导入。
 3. 可尝试改进有限差分部分的实现。
 
 ### 注意事项
